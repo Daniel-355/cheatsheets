@@ -1,5 +1,5 @@
 
-## RStudio Cheatsheets
+## RStudio Cheatsheets (this is awesome)
 
 <img src="pngs/rstudio-ide.png" width=364 height=288 align="right"/>
 
